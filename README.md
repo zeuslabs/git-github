@@ -1,4 +1,4 @@
-﻿# Git-GitHub (<span style="color:#e11d21">업데이트중</span>)
+﻿# Git-GitHub (업데이트중)
 
 ## 1. Git (공식사이트 : http://git-scm.com)
 1. 사용자 정보 지정하기
